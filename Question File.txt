@@ -1,0 +1,90 @@
+What is the symbol of Bitcoin?
+(a) BTC
+(b)BCH
+ (c)BTG 
+
+a
+What is the price of NEO?
+(a) 1.04149
+(b)119.082
+ (c)165.179
+
+b
+What is the symbol of Cardano?
+ (a)LTC
+ (b)XRP
+ (c)ADA
+
+c
+What is the price of IOTA?
+(a)2.00956
+ (b)9.92927
+ (c)1.014019
+
+a
+What is the symbol of Zcash?
+ (a)BCN
+ (b)VEN
+ (c)ZEC
+
+c
+What is the price of Siacoin?
+ (a)0.026016
+ (b)0.0270801
+ (c)0.00503942
+
+a
+What is the price of Walton?
+ (a)9.94735
+ (b)25.2327
+ (c)13.0664
+
+b
+What is the Market Cap of Litecoin?
+ (a)8047185802
+ (b)6547185802
+ (c)9109557125
+
+c
+What is the symbol of Status?
+ (a)SNT
+ (b)STEEM
+ (c)SC
+
+a
+What is the symbol of Augur?
+ (a)REP
+ (b)XVG
+ (c)PPT
+
+a
+What is the Market Cap of Maker?
+ (a)688798470.1
+ (b)682216366.4
+ (c)641121800.0
+
+a
+What is the symbol of DigixDAO?
+ (a)DCR
+ (b)DOGE
+ (c)DGD
+
+c
+What is the price of DigiByte?
+ (a)0.0401137
+ (b)0.0602724
+ (c)107.54
+
+a
+What is the Market Cap of E-coin?
+ (a)305275463.2
+ (b)311295823.9
+ (c)302240608.7
+
+b
+What is the symbol of Factom?
+ (a)FUN
+ (b)AION
+ (c)FCT
+
+c
